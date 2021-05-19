@@ -2,7 +2,7 @@
 
 ### My name is Maks and I'm 20 years old student of Computer Science. I'm interested in programming for about one year without any breaks. My favourite part of learning programming is developing a back-end in web applications.
 
-- 🔭 I’m currently working on: implementing more interesing features in my "Tasker" project.
+- 🔭 I’m currently working on: implementing more interesting features in my "Tasker" project.
 - 🌱 I’m currently trying to: get deep into python to be able to work with Django framework more fluently
 - ⚡ Fun fact: I'm also a guitar player, interested in speedcubing and powerlifting 🏋️
 
