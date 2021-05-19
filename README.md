@@ -12,7 +12,7 @@
 
 <img align = "left" alt = "JavaScript" width = "26px" src = "https://user-images.githubusercontent.com/79079000/118808905-45353c80-b8aa-11eb-92f7-ca58d829f53d.png" />
 
-<img align = "left" alt = "NodeJs" width = "26px" src = "https://user-images.githubusercontent.com/79079000/118809395-defce980-b8aa-11eb-8b86-27c3478d854e.jpg" />
+<img align = "left" alt = "NodeJs" width = "26px" src = "https://user-images.githubusercontent.com/79079000/118810290-ff797380-b8ab-11eb-8d50-d49cd912207b.png" />
 
 <img align = "left" alt = "Python" width = "26px" src = "https://user-images.githubusercontent.com/79079000/118809383-da383580-b8aa-11eb-9b90-b36be1ebd84a.png" />
 
