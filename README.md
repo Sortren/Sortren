@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+My name is Maks and I'm 20 years old student of Computer Science. I'm interested in programming for about one year without any breaks. My favourite part of 
+learning programming is developing a back-end in web applications. 
+- 🔭 I’m currently working on implementing more interesing features in my "Tasker" project.
+- 🌱 I’m currently trying to get deep into python to be able to work with Django framework more fluently <br>
+Languages and tools that I am familiar with:
+
+
 <!--
-**Sortren/Sortren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sortren/Sortren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on !
+your GitHub profile.
 
 Here are some ideas to get you started:
 
