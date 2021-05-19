@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on: implementing more interesing features in my "Tasker" project.
 - 🌱 I’m currently trying to: get deep into python to be able to work with Django framework more fluently
-- ⚡ Fun fact: I'm also a guitar player, interesting in speedcubing and powerlifting 🏋️
+- ⚡ Fun fact: I'm also a guitar player, interested in speedcubing and powerlifting 🏋️
 
-<br />
+---
 
 ### Languages and Tools that I am familiar with:
 
@@ -19,6 +19,12 @@
 <img align = "left" alt = "Java" width = "26px" src = "https://user-images.githubusercontent.com/79079000/118809404-e3290700-b8aa-11eb-8b5d-232ba841e251.png" />
 
 <img align = "left" alt = "Git" width = "26px" src = "https://user-images.githubusercontent.com/79079000/118809398-e1f7da00-b8aa-11eb-809d-bef2203df08d.png" />
+
+<br />
+
+---
+
+<img align = "left" alt = "Sortren Github Stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sortren&show_icons=true&theme=dark&hide_border=true)" />
 
 <!--
 **Sortren/Sortren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on !
