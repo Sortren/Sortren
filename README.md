@@ -2,7 +2,7 @@
 
 ### My name is Maks and I'm 20 years old student of Computer Science. I'm interested in programming for about one year without any breaks. My favourite part of learning programming is developing a back-end in web applications.
 
-- 🔭 I’m currently working on: creating a 'Brewery REST API'.
+- 🔭 I’m currently working on: creating a 'HTTP Witcher img REST API'.
 - 🌱 I’m currently learning: Django + Django REST Framework (/w PostgreSQL + Docker)
 - ⚡ Fun fact: I'm also a guitar player, interested in speedcubing and powerlifting 🏋️
 
