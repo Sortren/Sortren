@@ -34,7 +34,7 @@
 
 ---
 
-<img align = "left" alt = "Sortren Github Stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sortren&show_icons=true&theme=dark&hide_border=true&hide=html,css" />
+<img align = "left" alt = "Sortren Github Stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sortren&show_icons=true&theme=dark&hide_border=true&hide=html,css,dockerfile" />
 
 <!--
 **Sortren/Sortren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on !
