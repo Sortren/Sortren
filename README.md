@@ -2,8 +2,8 @@
 
 ### My name is Maks and I'm 20 years old student of Computer Science. My favourite part of learning programming is developing a back-end in web applications.
 
-- 🔭 I’m currently working on: creating a 'HTTP Witcher img REST API'.
-- 🌱 I’m currently learning: Django + Django REST Framework (/w PostgreSQL + Docker)
+- 🔭 I’m currently working on: building an online chat using WebSocket from fastAPI framework
+- 🌱 I’m currently learning: Django REST Framework (/w PostgreSQL + Docker), fastAPI
 - ⚡ Fun fact: I'm also a guitar player, interested in speedcubing and powerlifting 🏋️
 
 ---
@@ -15,6 +15,7 @@
 
 <img align = "left" alt = "Django" width = "26px" src = "https://user-images.githubusercontent.com/79079000/121752849-5ff97a80-cb11-11eb-96b3-d66912e2be80.png" />
 
+<img align = "left" alt = "FastAPI" width = "26px" src = "https://user-images.githubusercontent.com/79079000/125871360-23548c10-f1f7-4b42-ad6b-ed8eaec20490.png" />
 
 <img align = "left" alt = "JavaScript" width = "26px" src = "https://user-images.githubusercontent.com/79079000/118808905-45353c80-b8aa-11eb-92f7-ca58d829f53d.png" />
 
