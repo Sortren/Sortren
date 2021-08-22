@@ -17,6 +17,8 @@
 
 <img align = "left" alt = "FastAPI" width = "26px" src = "https://user-images.githubusercontent.com/79079000/125871360-23548c10-f1f7-4b42-ad6b-ed8eaec20490.png" />
 
+<img align = "left" alt = "Flask" width = "26px" src = "https://user-images.githubusercontent.com/79079000/130369302-ce7f4c2a-ec15-4f25-a397-371a2c840c50.png" />
+
 <img align = "left" alt = "JavaScript" width = "26px" src = "https://user-images.githubusercontent.com/79079000/118808905-45353c80-b8aa-11eb-92f7-ca58d829f53d.png" />
 
 <img align = "left" alt = "NodeJs" width = "26px" src = "https://user-images.githubusercontent.com/79079000/118810290-ff797380-b8ab-11eb-8d50-d49cd912207b.png" />
