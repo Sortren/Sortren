@@ -1,11 +1,3 @@
-### Hi there 👋
-
-### My name is Maks and I'm 20 years old student of Computer Science. My favourite part of learning programming is developing a back-end in web applications.
-
-- 🔭 I’m currently working on: building an online chat using WebSocket from fastAPI framework
-- 🌱 I’m currently learning: Django REST Framework (/w PostgreSQL + Docker), fastAPI
-- ⚡ Fun fact: I'm also a guitar player, interested in speedcubing and powerlifting 🏋️
-
 ---
 
 ### Languages and Tools that I am familiar with:
